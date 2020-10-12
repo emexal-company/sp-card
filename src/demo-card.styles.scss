@@ -1,0 +1,18 @@
+@import "prismjs/themes/prism",
+"prismjs/plugins/toolbar/prism-toolbar";
+
+.toolbar {
+    display: none;
+}
+
+:host {
+    padding: 0 48px;
+}
+
+sp-button {
+    margin-right: 8px;
+}
+
+section {
+    margin-bottom: 32px;
+}
